@@ -1,0 +1,41 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: #24252a;
+    padding: 10px 50px;
+    align-items: center;
+    color: white;
+}
+.s{
+    width: 270px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+   
+   
+}
+nav.logo {
+    color: white;
+
+}
+#contact{
+    width: 80PX;
+    height: 20px;
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-top-RIGHT-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: flexbox;
+    color: white;
+    background-color:#0088aa;
+
+    
+}
+.s li a{
+    text-decoration: none;
+    color: white;
+    
+}
+
